@@ -1,6 +1,6 @@
 # CheckListSite MERN
 Bu proje, MERN yığını kullanılarak oluşturulmuş bir kontrol listesi uygulamasıdır. Kullanıcılar, yapılacaklar listesini oluşturabilir, tamamlanan görevleri işaretleyebilir ve listeler üzerinde düzenlemeler yapabilirler.
-
+Her klasore npm install yaparak node_modules klasorunu lutfen yukleyin
 Başlarken
 
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edin.
